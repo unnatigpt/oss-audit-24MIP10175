@@ -1,0 +1,19 @@
+
+==============================
+ My Open Source Manifesto
+ Generated on: 26 March 2026
+ Author: hpwindows
+==============================
+
+I believe in the power of open source.
+Every day I rely on Git — a tool built freely and shared openly by developers around the world.
+To me, freedom means Choice — and that is exactly what open source represents.
+It is the freedom to use, study, modify and share software without restriction.
+
+One day I plan to build A student collaboration tool and release it to the world for free.
+Because knowledge grows when it is shared, not when it is locked away.
+Standing on the shoulders of giants like Linus Torvalds and Richard Stallman,
+I commit to giving back to the community that gave so much to me.
+
+Open source is not just a license. It is a philosophy. It is a movement. It is the future.
+==============================
